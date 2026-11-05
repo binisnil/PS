@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/binisnil/PS/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/binisnil/PS/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/binisnil/PS/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/binisnil/PS/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/binisnil/PS/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
