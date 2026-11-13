@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/binisnil/PS/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/binisnil/PS/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/binisnil/PS/tree/master/0409-longest-palindrome) |
 ## Linked List
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/binisnil/PS/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -95,4 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/binisnil/PS/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
