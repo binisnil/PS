@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/binisnil/PS/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/binisnil/PS/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,16 +118,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/binisnil/PS/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/binisnil/PS/tree/master/0542-01-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/binisnil/PS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/binisnil/PS/tree/master/0217-contains-duplicate) |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -152,4 +156,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/binisnil/PS/tree/master/0542-01-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
