@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/binisnil/PS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/binisnil/PS/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/binisnil/PS/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/binisnil/PS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/binisnil/PS/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/binisnil/PS/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/binisnil/PS/tree/master/0409-longest-palindrome) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/binisnil/PS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
