@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/binisnil/PS/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/binisnil/PS/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/binisnil/PS/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/binisnil/PS/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/binisnil/PS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/binisnil/PS/tree/master/0217-contains-duplicate) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/binisnil/PS/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/binisnil/PS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/binisnil/PS/tree/master/0217-contains-duplicate) |
 | [0973-k-closest-points-to-origin](https://github.com/binisnil/PS/tree/master/0973-k-closest-points-to-origin) |
